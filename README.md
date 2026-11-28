@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-*README.md In progress*
+*README.md is in progress*
 
 <!--
 **ElhamFayzi/ElhamFayzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
